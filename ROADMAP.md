@@ -3,7 +3,7 @@
 Lumina Research focuses on **AI safety, transparency, failure taxonomies, and empirical evaluation**.
 
 ## Active Repositories (Phase 1)
-* **[ai-incident-reporting-system](https://github.com/Lumina-Research/ai-incident-reporting-system)** — Structured system for reporting, classifying, and resolving AI incidents—including misuse, hallucinations, unsafe outputs, and system failures—with schemas, taxonomy, and lifecycle workflows.
+* **[ai-incident-reporting-system](https://github.com/luminaresearch/ai-incident-reporting-system)** — Structured system for reporting, classifying, and resolving AI incidents—including misuse, hallucinations, unsafe outputs, and system failures—with schemas, taxonomy, and lifecycle workflows.
 
 ## Planned Repositories (Phase 2)
 * **`hallucination-eval-suite`** — Standardized test harnesses for measuring factual grounding, citation fidelity, and abstention accuracy.
